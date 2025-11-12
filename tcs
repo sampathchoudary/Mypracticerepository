@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# This script greets the user and displays the current date and time
+
+echo "Hello, user!"
+echo "Today is: $(date)" 
